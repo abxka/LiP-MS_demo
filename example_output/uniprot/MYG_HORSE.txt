@@ -1,0 +1,360 @@
+ID   MYG_HORSE               Reviewed;         154 AA.
+AC   P68082; P02188;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 2.
+DT   07-SEP-2016, entry version 93.
+DE   RecName: Full=Myoglobin;
+GN   Name=MB;
+OS   Equus caballus (Horse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+OX   NCBI_TaxID=9796;
+RN   [1]
+RP   PROTEIN SEQUENCE OF 2-154.
+RC   TISSUE=Heart muscle;
+RX   PubMed=4902609; DOI=10.1111/j.1432-1033.1969.tb00769.x;
+RA   Dautrevaux M., Boulanger Y., Han K., Biserte G.;
+RT   "Covalent structure of horse myoglobin.";
+RL   Eur. J. Biochem. 11:267-277(1969).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 2-154.
+RC   TISSUE=Skeletal muscle;
+RA   Romero-Herrera A.E., Lehmann H.;
+RT   "Residue 122 of sperm whale and horse myoglobin.";
+RL   Biochim. Biophys. Acta 336:318-323(1974).
+RN   [3]
+RP   PROTEIN SEQUENCE OF 2-16 AND 57-71.
+RX   PubMed=2302197; DOI=10.1016/0006-291X(90)91922-F;
+RA   Jahnen W., Ward L.D., Reid G.E., Moritz R.L., Simpson R.J.;
+RT   "Internal amino acid sequencing of proteins by in situ cyanogen
+RT   bromide cleavage in polyacrylamide gels.";
+RL   Biochem. Biophys. Res. Commun. 166:139-145(1990).
+RN   [4]
+RP   X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 2-154 IN COMPLEX WITH HEME.
+RX   PubMed=2359126; DOI=10.1016/S0022-2836(05)80270-0;
+RA   Evans S.V., Brayer G.D.;
+RT   "High-resolution study of the three-dimensional structure of horse
+RT   heart metmyoglobin.";
+RL   J. Mol. Biol. 213:885-897(1990).
+RN   [5]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS).
+RX   PubMed=3346247;
+RA   Evans S.V., Brayer G.D.;
+RT   "Horse heart metmyoglobin. A 2.8-A resolution three-dimensional
+RT   structure determination.";
+RL   J. Biol. Chem. 263:4263-4268(1988).
+RN   [6]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF MUTANT THR-65.
+RX   PubMed=7654702; DOI=10.1021/bi00033a021;
+RA   Bogumil R., Maurus R., Hildebrand D.P., Brayer G.D., Mauk A.G.;
+RT   "Origin of the pH-dependent spectroscopic properties of
+RT   pentacoordinate metmyoglobin variants.";
+RL   Biochemistry 34:10483-10490(1995).
+RN   [7]
+RP   X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 2-154 IN COMPLEX WITH HEME.
+RX   PubMed=10706294; DOI=10.1038/35002641;
+RA   Chu K., Vojtchovsky J., McMahon B.H., Sweet R.M., Berendzen J.,
+RA   Schlichting I.;
+RT   "Structure of a ligand-binding intermediate in wild-type carbonmonoxy
+RT   myoglobin.";
+RL   Nature 403:921-923(2000).
+CC   -!- FUNCTION: Serves as a reserve supply of oxygen and facilitates the
+CC       movement of oxygen within muscles.
+CC   -!- SIMILARITY: Belongs to the globin family. {ECO:0000255|PROSITE-
+CC       ProRule:PRU00238}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   PIR; A91098; MYHO.
+DR   RefSeq; NP_001157488.1; NM_001164016.1.
+DR   UniGene; Eca.16922; -.
+DR   PDB; 1AZI; X-ray; 2.00 A; A=2-154.
+DR   PDB; 1BJE; X-ray; 1.80 A; A=2-154.
+DR   PDB; 1DWR; X-ray; 1.45 A; A=2-154.
+DR   PDB; 1DWS; X-ray; 1.45 A; A=2-154.
+DR   PDB; 1DWT; X-ray; 1.40 A; A=2-154.
+DR   PDB; 1GJN; X-ray; 1.35 A; A=2-154.
+DR   PDB; 1HRM; X-ray; 1.70 A; A=2-154.
+DR   PDB; 1HSY; X-ray; 1.90 A; A=2-154.
+DR   PDB; 1NPF; X-ray; 1.90 A; A=2-154.
+DR   PDB; 1NPG; X-ray; 1.70 A; A=2-154.
+DR   PDB; 1NZ2; X-ray; 1.90 A; A=2-154.
+DR   PDB; 1NZ3; X-ray; 1.60 A; A=2-154.
+DR   PDB; 1NZ4; X-ray; 1.80 A; A=2-154.
+DR   PDB; 1NZ5; X-ray; 1.70 A; A=2-154.
+DR   PDB; 1RSE; X-ray; 1.70 A; A=2-154.
+DR   PDB; 1WLA; X-ray; 1.70 A; A=2-154.
+DR   PDB; 1XCH; X-ray; 1.70 A; A=2-154.
+DR   PDB; 1YMA; X-ray; 2.00 A; A=2-154.
+DR   PDB; 1YMB; X-ray; 1.90 A; A=2-154.
+DR   PDB; 1YMC; X-ray; 2.00 A; A=2-154.
+DR   PDB; 2FRF; X-ray; 1.20 A; A=2-154.
+DR   PDB; 2FRI; X-ray; 1.60 A; X=2-154.
+DR   PDB; 2FRJ; X-ray; 1.30 A; X=2-154.
+DR   PDB; 2FRK; X-ray; 1.30 A; X=2-154.
+DR   PDB; 2IN4; X-ray; 2.15 A; A=2-154.
+DR   PDB; 2NSR; X-ray; 1.90 A; A=2-154.
+DR   PDB; 2NSS; X-ray; 2.00 A; A=2-154.
+DR   PDB; 2O58; X-ray; 1.65 A; X=2-154.
+DR   PDB; 2O5B; X-ray; 2.00 A; X=2-154.
+DR   PDB; 2O5L; X-ray; 1.70 A; X=2-154.
+DR   PDB; 2O5M; X-ray; 1.65 A; X=2-154.
+DR   PDB; 2O5O; X-ray; 1.60 A; X=2-154.
+DR   PDB; 2O5Q; X-ray; 1.90 A; X=2-154.
+DR   PDB; 2O5S; X-ray; 1.60 A; X=2-154.
+DR   PDB; 2O5T; X-ray; 1.60 A; X=2-154.
+DR   PDB; 2V1E; X-ray; 1.30 A; A=2-154.
+DR   PDB; 2V1F; X-ray; 1.20 A; A=2-154.
+DR   PDB; 2V1G; X-ray; 1.35 A; A=2-154.
+DR   PDB; 2V1H; X-ray; 1.30 A; A=2-154.
+DR   PDB; 2V1I; X-ray; 1.20 A; A=2-154.
+DR   PDB; 2V1J; X-ray; 1.40 A; A=2-154.
+DR   PDB; 2V1K; X-ray; 1.25 A; A=2-154.
+DR   PDB; 2VLX; X-ray; 1.30 A; A=2-154.
+DR   PDB; 2VLY; X-ray; 1.60 A; A=2-154.
+DR   PDB; 2VLZ; X-ray; 1.50 A; A=2-154.
+DR   PDB; 2VM0; X-ray; 1.60 A; A=2-154.
+DR   PDB; 3BA2; X-ray; 1.80 A; A=2-154.
+DR   PDB; 3HC9; X-ray; 2.00 A; A=2-154.
+DR   PDB; 3HEN; X-ray; 1.90 A; A=2-154.
+DR   PDB; 3HEO; X-ray; 2.00 A; A=2-154.
+DR   PDB; 3HEP; X-ray; 1.95 A; A=2-154.
+DR   PDB; 3LR7; X-ray; 1.60 A; A=2-154.
+DR   PDB; 3LR9; X-ray; 1.55 A; A=2-154.
+DR   PDB; 3RJ6; X-ray; 1.23 A; A/B=2-154.
+DR   PDB; 3RJN; X-ray; 1.90 A; B=2-154.
+DR   PDB; 3V2V; X-ray; 1.65 A; A=2-154.
+DR   PDB; 3V2Z; X-ray; 1.65 A; A=2-154.
+DR   PDB; 3VAU; X-ray; 1.70 A; A=2-154.
+DR   PDB; 3VM9; X-ray; 1.05 A; A/B=2-154.
+DR   PDB; 3WFT; X-ray; 1.30 A; A=2-154.
+DR   PDB; 3WFU; X-ray; 1.35 A; A=2-154.
+DR   PDB; 3WI8; X-ray; 2.20 A; A=2-154.
+DR   PDB; 3WYO; X-ray; 2.00 A; A/B/C/D=2-154.
+DR   PDB; 4DC7; X-ray; 1.50 A; A=2-153.
+DR   PDB; 4DC8; X-ray; 1.50 A; A=2-153.
+DR   PDB; 4NS2; X-ray; 1.18 A; A=1-154.
+DR   PDB; 4TWU; X-ray; 1.08 A; A=1-154.
+DR   PDB; 4TWV; X-ray; 1.06 A; A=1-154.
+DR   PDB; 5AZQ; X-ray; 1.40 A; A=2-154.
+DR   PDB; 5AZR; X-ray; 1.20 A; A=2-154.
+DR   PDB; 5CMV; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CN4; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CN5; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CN6; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CN7; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CN8; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CN9; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CNB; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CNC; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CND; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CNE; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CNF; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5CNG; X-ray; 1.80 A; A=2-153.
+DR   PDB; 5D5R; X-ray; 1.60 A; A=2-153.
+DR   PDBsum; 1AZI; -.
+DR   PDBsum; 1BJE; -.
+DR   PDBsum; 1DWR; -.
+DR   PDBsum; 1DWS; -.
+DR   PDBsum; 1DWT; -.
+DR   PDBsum; 1GJN; -.
+DR   PDBsum; 1HRM; -.
+DR   PDBsum; 1HSY; -.
+DR   PDBsum; 1NPF; -.
+DR   PDBsum; 1NPG; -.
+DR   PDBsum; 1NZ2; -.
+DR   PDBsum; 1NZ3; -.
+DR   PDBsum; 1NZ4; -.
+DR   PDBsum; 1NZ5; -.
+DR   PDBsum; 1RSE; -.
+DR   PDBsum; 1WLA; -.
+DR   PDBsum; 1XCH; -.
+DR   PDBsum; 1YMA; -.
+DR   PDBsum; 1YMB; -.
+DR   PDBsum; 1YMC; -.
+DR   PDBsum; 2FRF; -.
+DR   PDBsum; 2FRI; -.
+DR   PDBsum; 2FRJ; -.
+DR   PDBsum; 2FRK; -.
+DR   PDBsum; 2IN4; -.
+DR   PDBsum; 2NSR; -.
+DR   PDBsum; 2NSS; -.
+DR   PDBsum; 2O58; -.
+DR   PDBsum; 2O5B; -.
+DR   PDBsum; 2O5L; -.
+DR   PDBsum; 2O5M; -.
+DR   PDBsum; 2O5O; -.
+DR   PDBsum; 2O5Q; -.
+DR   PDBsum; 2O5S; -.
+DR   PDBsum; 2O5T; -.
+DR   PDBsum; 2V1E; -.
+DR   PDBsum; 2V1F; -.
+DR   PDBsum; 2V1G; -.
+DR   PDBsum; 2V1H; -.
+DR   PDBsum; 2V1I; -.
+DR   PDBsum; 2V1J; -.
+DR   PDBsum; 2V1K; -.
+DR   PDBsum; 2VLX; -.
+DR   PDBsum; 2VLY; -.
+DR   PDBsum; 2VLZ; -.
+DR   PDBsum; 2VM0; -.
+DR   PDBsum; 3BA2; -.
+DR   PDBsum; 3HC9; -.
+DR   PDBsum; 3HEN; -.
+DR   PDBsum; 3HEO; -.
+DR   PDBsum; 3HEP; -.
+DR   PDBsum; 3LR7; -.
+DR   PDBsum; 3LR9; -.
+DR   PDBsum; 3RJ6; -.
+DR   PDBsum; 3RJN; -.
+DR   PDBsum; 3V2V; -.
+DR   PDBsum; 3V2Z; -.
+DR   PDBsum; 3VAU; -.
+DR   PDBsum; 3VM9; -.
+DR   PDBsum; 3WFT; -.
+DR   PDBsum; 3WFU; -.
+DR   PDBsum; 3WI8; -.
+DR   PDBsum; 3WYO; -.
+DR   PDBsum; 4DC7; -.
+DR   PDBsum; 4DC8; -.
+DR   PDBsum; 4NS2; -.
+DR   PDBsum; 4TWU; -.
+DR   PDBsum; 4TWV; -.
+DR   PDBsum; 5AZQ; -.
+DR   PDBsum; 5AZR; -.
+DR   PDBsum; 5CMV; -.
+DR   PDBsum; 5CN4; -.
+DR   PDBsum; 5CN5; -.
+DR   PDBsum; 5CN6; -.
+DR   PDBsum; 5CN7; -.
+DR   PDBsum; 5CN8; -.
+DR   PDBsum; 5CN9; -.
+DR   PDBsum; 5CNB; -.
+DR   PDBsum; 5CNC; -.
+DR   PDBsum; 5CND; -.
+DR   PDBsum; 5CNE; -.
+DR   PDBsum; 5CNF; -.
+DR   PDBsum; 5CNG; -.
+DR   PDBsum; 5D5R; -.
+DR   ProteinModelPortal; P68082; -.
+DR   SMR; P68082; 2-154.
+DR   STRING; 9796.ENSECAP00000015509; -.
+DR   PaxDb; P68082; -.
+DR   PRIDE; P68082; -.
+DR   Ensembl; ENSECAT00000018976; ENSECAP00000015509; ENSECAG00000017982.
+DR   GeneID; 100054434; -.
+DR   KEGG; ecb:100054434; -.
+DR   CTD; 4151; -.
+DR   eggNOG; KOG3378; Eukaryota.
+DR   eggNOG; COG1018; LUCA.
+DR   GeneTree; ENSGT00730000110844; -.
+DR   HOGENOM; HOG000070111; -.
+DR   HOVERGEN; HBG107340; -.
+DR   InParanoid; P68082; -.
+DR   OMA; KKKGQHE; -.
+DR   OrthoDB; EOG091G0OAO; -.
+DR   TreeFam; TF332967; -.
+DR   SABIO-RK; P68082; -.
+DR   EvolutionaryTrace; P68082; -.
+DR   Proteomes; UP000002281; Chromosome 28.
+DR   GO; GO:0070062; C:extracellular exosome; IEA:Ensembl.
+DR   GO; GO:0020037; F:heme binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0019825; F:oxygen binding; IEA:InterPro.
+DR   GO; GO:0005344; F:oxygen transporter activity; IEA:UniProtKB-KW.
+DR   GO; GO:0050873; P:brown fat cell differentiation; IEA:Ensembl.
+DR   GO; GO:0043353; P:enucleate erythrocyte differentiation; IEA:Ensembl.
+DR   GO; GO:0007507; P:heart development; IEA:Ensembl.
+DR   GO; GO:0001666; P:response to hypoxia; IEA:Ensembl.
+DR   Gene3D; 1.10.490.10; -; 1.
+DR   InterPro; IPR000971; Globin.
+DR   InterPro; IPR009050; Globin-like.
+DR   InterPro; IPR012292; Globin/Proto.
+DR   InterPro; IPR002335; Myoglobin.
+DR   PANTHER; PTHR11442:SF5; PTHR11442:SF5; 1.
+DR   Pfam; PF00042; Globin; 1.
+DR   PRINTS; PR00613; MYOGLOBIN.
+DR   SUPFAM; SSF46458; SSF46458; 1.
+DR   PROSITE; PS01033; GLOBIN; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing; Heme;
+KW   Iron; Metal-binding; Muscle protein; Oxygen transport; Phosphoprotein;
+KW   Reference proteome; Transport.
+FT   INIT_MET      1      1       Removed. {ECO:0000269|PubMed:2302197,
+FT                                ECO:0000269|PubMed:4902609,
+FT                                ECO:0000269|Ref.2}.
+FT   CHAIN         2    154       Myoglobin.
+FT                                /FTId=PRO_0000053302.
+FT   METAL        65     65       Iron (heme distal ligand).
+FT                                {ECO:0000269|PubMed:7654702}.
+FT   METAL        94     94       Iron (heme proximal ligand).
+FT                                {ECO:0000244|PDB:1AZI,
+FT                                ECO:0000244|PDB:1BJE,
+FT                                ECO:0000244|PDB:1DWR,
+FT                                ECO:0000244|PDB:1DWS,
+FT                                ECO:0000244|PDB:1DWT,
+FT                                ECO:0000244|PDB:1GJN,
+FT                                ECO:0000244|PDB:1HSY,
+FT                                ECO:0000244|PDB:1NPF,
+FT                                ECO:0000244|PDB:1NPG,
+FT                                ECO:0000244|PDB:1NZ2,
+FT                                ECO:0000244|PDB:1NZ3,
+FT                                ECO:0000244|PDB:1NZ4,
+FT                                ECO:0000244|PDB:1NZ5,
+FT                                ECO:0000244|PDB:1RSE,
+FT                                ECO:0000244|PDB:1WLA,
+FT                                ECO:0000244|PDB:1XCH,
+FT                                ECO:0000244|PDB:1YMA,
+FT                                ECO:0000244|PDB:1YMB,
+FT                                ECO:0000244|PDB:2FRF,
+FT                                ECO:0000244|PDB:2FRI,
+FT                                ECO:0000244|PDB:2FRJ,
+FT                                ECO:0000244|PDB:2FRK,
+FT                                ECO:0000244|PDB:2NSR,
+FT                                ECO:0000244|PDB:2NSS,
+FT                                ECO:0000244|PDB:2V1E,
+FT                                ECO:0000244|PDB:2V1F,
+FT                                ECO:0000244|PDB:2V1G,
+FT                                ECO:0000244|PDB:2V1H,
+FT                                ECO:0000244|PDB:2V1I,
+FT                                ECO:0000244|PDB:2V1J,
+FT                                ECO:0000244|PDB:2V1K,
+FT                                ECO:0000244|PDB:2VLX,
+FT                                ECO:0000244|PDB:2VLY,
+FT                                ECO:0000244|PDB:2VLZ,
+FT                                ECO:0000244|PDB:2VM0,
+FT                                ECO:0000244|PDB:3HC9,
+FT                                ECO:0000244|PDB:3HEN,
+FT                                ECO:0000244|PDB:3HEO,
+FT                                ECO:0000244|PDB:3HEP,
+FT                                ECO:0000244|PDB:3LR7,
+FT                                ECO:0000244|PDB:3LR9,
+FT                                ECO:0000244|PDB:3RJ6,
+FT                                ECO:0000244|PDB:3VM9,
+FT                                ECO:0000244|PDB:3WYO,
+FT                                ECO:0000244|PDB:4DC7,
+FT                                ECO:0000244|PDB:4DC8,
+FT                                ECO:0000244|PDB:4NS2,
+FT                                ECO:0000269|PubMed:10706294,
+FT                                ECO:0000269|PubMed:2359126,
+FT                                ECO:0000269|PubMed:7654702}.
+FT   MOD_RES       4      4       Phosphoserine.
+FT                                {ECO:0000250|UniProtKB:Q9QZ76}.
+FT   CONFLICT    123    123       D -> N (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   HELIX         5     19       {ECO:0000244|PDB:3VM9}.
+FT   HELIX        22     36       {ECO:0000244|PDB:3VM9}.
+FT   HELIX        38     41       {ECO:0000244|PDB:3VM9}.
+FT   HELIX        45     47       {ECO:0000244|PDB:3VM9}.
+FT   HELIX        53     58       {ECO:0000244|PDB:3VM9}.
+FT   HELIX        60     96       {ECO:0000244|PDB:3VM9}.
+FT   HELIX       102    119       {ECO:0000244|PDB:3VM9}.
+FT   TURN        121    123       {ECO:0000244|PDB:3VM9}.
+FT   HELIX       126    149       {ECO:0000244|PDB:3VM9}.
+FT   TURN        150    153       {ECO:0000244|PDB:5AZQ}.
+SQ   SEQUENCE   154 AA;  17083 MW;  20EABC4A66ACE975 CRC64;
+     MGLSDGEWQQ VLNVWGKVEA DIAGHGQEVL IRLFTGHPET LEKFDKFKHL KTEAEMKASE
+     DLKKHGTVVL TALGGILKKK GHHEAELKPL AQSHATKHKI PIKYLEFISD AIIHVLHSKH
+     PGDFGADAQG AMTKALELFR NDIAAKYKEL GFQG
+//

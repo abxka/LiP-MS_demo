@@ -1,0 +1,100 @@
+ID   F7C8G3_HORSE            Unreviewed;       373 AA.
+AC   F7C8G3;
+DT   27-JUL-2011, integrated into UniProtKB/TrEMBL.
+DT   27-JUL-2011, sequence version 1.
+DT   07-SEP-2016, entry version 31.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|Ensembl:ENSECAP00000021108};
+GN   Name=SPHK1 {ECO:0000313|Ensembl:ENSECAP00000021108};
+OS   Equus caballus (Horse).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+OX   NCBI_TaxID=9796 {ECO:0000313|Ensembl:ENSECAP00000021108, ECO:0000313|Proteomes:UP000002281};
+RN   [1] {ECO:0000313|Ensembl:ENSECAP00000021108, ECO:0000313|Proteomes:UP000002281}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Thoroughbred {ECO:0000313|Ensembl:ENSECAP00000021108,
+RC   ECO:0000313|Proteomes:UP000002281};
+RX   PubMed=19892987; DOI=10.1126/science.1178158;
+RG   Broad Institute Genome Sequencing Platform;
+RG   Broad Institute Whole Genome Assembly Team;
+RA   Wade C.M., Giulotto E., Sigurdsson S., Zoli M., Gnerre S., Imsland F.,
+RA   Lear T.L., Adelson D.L., Bailey E., Bellone R.R., Bloecker H.,
+RA   Distl O., Edgar R.C., Garber M., Leeb T., Mauceli E., MacLeod J.N.,
+RA   Penedo M.C.T., Raison J.M., Sharpe T., Vogel J., Andersson L.,
+RA   Antczak D.F., Biagi T., Binns M.M., Chowdhary B.P., Coleman S.J.,
+RA   Della Valle G., Fryc S., Guerin G., Hasegawa T., Hill E.W., Jurka J.,
+RA   Kiialainen A., Lindgren G., Liu J., Magnani E., Mickelson J.R.,
+RA   Murray J., Nergadze S.G., Onofrio R., Pedroni S., Piras M.F.,
+RA   Raudsepp T., Rocchi M., Roeed K.H., Ryder O.A., Searle S., Skow L.,
+RA   Swinburne J.E., Syvaenen A.C., Tozaki T., Valberg S.J., Vaudin M.,
+RA   White J.R., Zody M.C., Lander E.S., Lindblad-Toh K.;
+RT   "Genome sequence, comparative analysis, and population genetics of the
+RT   domestic horse.";
+RL   Science 326:865-867(2009).
+RN   [2] {ECO:0000313|Ensembl:ENSECAP00000021108}
+RP   IDENTIFICATION.
+RC   STRAIN=Thoroughbred {ECO:0000313|Ensembl:ENSECAP00000021108};
+RG   Ensembl;
+RL   Submitted (JUL-2011) to UniProtKB.
+CC   -!- CAUTION: The sequence shown here is derived from an Ensembl
+CC       automatic analysis pipeline and should be considered as
+CC       preliminary data. {ECO:0000313|Ensembl:ENSECAP00000021108}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   STRING; 9796.ENSECAP00000021108; -.
+DR   PaxDb; F7C8G3; -.
+DR   Ensembl; ENSECAT00000025373; ENSECAP00000021108; ENSECAG00000023642.
+DR   eggNOG; KOG1116; Eukaryota.
+DR   eggNOG; COG1597; LUCA.
+DR   GeneTree; ENSGT00690000101761; -.
+DR   InParanoid; F7C8G3; -.
+DR   OMA; PWQREPR; -.
+DR   OrthoDB; EOG091G06SM; -.
+DR   TreeFam; TF354296; -.
+DR   Proteomes; UP000002281; Chromosome 11.
+DR   GO; GO:0005737; C:cytoplasm; IEA:Ensembl.
+DR   GO; GO:0005886; C:plasma membrane; IEA:Ensembl.
+DR   GO; GO:0005524; F:ATP binding; IEA:Ensembl.
+DR   GO; GO:0017050; F:D-erythro-sphingosine kinase activity; IEA:Ensembl.
+DR   GO; GO:0003677; F:DNA binding; IEA:Ensembl.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:Ensembl.
+DR   GO; GO:0008481; F:sphinganine kinase activity; IEA:Ensembl.
+DR   GO; GO:0038036; F:sphingosine-1-phosphate receptor activity; IEA:Ensembl.
+DR   GO; GO:0001568; P:blood vessel development; IEA:Ensembl.
+DR   GO; GO:0007420; P:brain development; IEA:Ensembl.
+DR   GO; GO:0019722; P:calcium-mediated signaling; IEA:Ensembl.
+DR   GO; GO:0006954; P:inflammatory response; IEA:Ensembl.
+DR   GO; GO:0043066; P:negative regulation of apoptotic process; IEA:Ensembl.
+DR   GO; GO:0045766; P:positive regulation of angiogenesis; IEA:Ensembl.
+DR   GO; GO:0030307; P:positive regulation of cell growth; IEA:Ensembl.
+DR   GO; GO:0030335; P:positive regulation of cell migration; IEA:Ensembl.
+DR   GO; GO:0048146; P:positive regulation of fibroblast proliferation; IEA:Ensembl.
+DR   GO; GO:0045931; P:positive regulation of mitotic cell cycle; IEA:Ensembl.
+DR   GO; GO:0042346; P:positive regulation of NF-kappaB import into nucleus; IEA:Ensembl.
+DR   GO; GO:0051092; P:positive regulation of NF-kappaB transcription factor activity; IEA:Ensembl.
+DR   GO; GO:0010800; P:positive regulation of peptidyl-threonine phosphorylation; IEA:Ensembl.
+DR   GO; GO:0031398; P:positive regulation of protein ubiquitination; IEA:Ensembl.
+DR   GO; GO:0045987; P:positive regulation of smooth muscle contraction; IEA:Ensembl.
+DR   GO; GO:0032651; P:regulation of interleukin-1 beta production; IEA:Ensembl.
+DR   GO; GO:0010803; P:regulation of tumor necrosis factor-mediated signaling pathway; IEA:Ensembl.
+DR   GO; GO:0046512; P:sphingosine biosynthetic process; IEA:Ensembl.
+DR   InterPro; IPR001206; Diacylglycerol_kinase_cat_dom.
+DR   InterPro; IPR016064; NAD/diacylglycerol_kinase.
+DR   Pfam; PF00781; DAGK_cat; 1.
+DR   SMART; SM00046; DAGKc; 1.
+DR   SUPFAM; SSF111331; SSF111331; 2.
+DR   PROSITE; PS50146; DAGK; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002281};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002281}.
+FT   DOMAIN       12    159       DAGKc. {ECO:0000259|PROSITE:PS50146}.
+SQ   SEQUENCE   373 AA;  41496 MW;  A31F337F75C2289E CRC64;
+     MDPARGTQRQ LPRPCHVLVL LNPCGGKGKA LELFRSHVQP LLAQEDVSFK LLLTERRNHA
+     RELVRAEELG HWDALVVMSG DGLMHEVVNG LMERPDWETA IQKPLCSLPA GSGNALAASV
+     NHYAGFEQVT DEDLLTNCTL LLCRRLLAPM NLLSLQTASG LRLFSVLSLA WGFIADVDLE
+     SEKFRCLGEV RFTLGTFLRL AALRIYRGQL AYLPVERVVS KMPTSPALDR QNQQGPVDAH
+     LVPLEEPVPS HWTVVPEQDF VLVLVLLHSH LGSEMFAAPM GRCEAGTMHL FYIRAGVSRA
+     MLLRIFLAMQ NGRHMEYDCP YLVYVPVVAF RLEPKDGKGV ITVDGELMAS EAVQGQVHPN
+     YFWMVSGCME PPP
+//
