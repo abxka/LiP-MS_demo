@@ -1,4 +1,4 @@
-load /Users/abdullah/science/uzh/research/public/NatProt/demo/example_output/pdb/4twvA.pdb1
+load example_output/pdb/4twvA.pdb1
 color grey30
 hide; set cartoon_fancy_helices, 1; show cartoon; remove solvent; create lig, hetatm; show sticks, lig; show spheres, lig; set sphere_scale, 0.3, lig; cmd.color("grey70", "lig"); util.cnc("lig"); zoom;
 hide everything, all and not chain A
