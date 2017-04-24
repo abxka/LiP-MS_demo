@@ -56,7 +56,7 @@ fi;
 
 echo
 echo "2. Identifying the associated proteins of detected peptides"
-perl scripts/getPeptidePos.pl -in $peptideFile -fasta $proteomeFile -col 2 -v -header > $peptidePosFile
+perl scripts/getPeptidePos.pl -in $peptideFile -fasta $proteomeFile -col 3 -v -header > $peptidePosFile
 echo "Done"
 echo
 echo "1. Mapping peptides on protein structures"
