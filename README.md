@@ -87,7 +87,7 @@ Option   | required or optional | Default | Information |
 ---------|----------------------|---------|-------------|
 -fasta   | required             |         | Path to a FASTA formatted proteome sequence text file.
 -in      | required             |         | Path to a tab delimited text file, which holds in one column a list of peptide sequences.
--col     | optional             | 2       | Column number of peptide sequences in -in file. Numbering starts with 1.
+-col     | optional             | 1       | Column number of peptide sequences in -in file. Numbering starts with 1.
 -header  | optional             |         | Ignore header in peptide sequence file.
 -verbose | optional             |         | Outputs additional information such as a table header.
 -help    | optional             |         | Print this help information.
@@ -103,9 +103,9 @@ Option       | required or optional | Default  | Information |
 -pepCol      | optional             | 2        | Column number of peptide sequences in input file. Numbering starts with 1. In case its identical to uniprotCol, split based on _ will be performed and the 2nd string will be taken.
 -uniprotDir  | optional             | uniprot  | Directory in which UniProt files will be downloaded. Download of UniProt files already existent in this directory will be skipped.
 -fastaDir    | optional             | fasta    | Directory in which protein FASTA files will be written. Download of FASTA files already existent in this directory will be skipped.
--pdbDir	   | optional             | pdb      | Directory in which PDB files will be downloaded. Download of PDB files already existent in this directory will be skipped.
+-pdbDir	     | optional             | pdb      | Directory in which PDB files will be downloaded. Download of PDB files already existent in this directory will be skipped.
 -modelDir    | optional             | homology | Directory in which MODBASE protein model files will be downloaded. Download of MODBASE files already existent in this directory will be skipped.
--pmlDir	   | optional             | pml      | Directory in which PyMOL scripts will be written.
+-pmlDir	     | optional             | pml      | Directory in which PyMOL scripts will be written.
 -minSeqId    | optional             | 10       | Minimum sequence identity of homology model to its template structure.
 -maxDownload | optional             | 5        | Maximum number of PDB structures to be downloaded.
 -header      | optional             |          | Skips the first line of the input file.
